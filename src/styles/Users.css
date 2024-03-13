@@ -1,0 +1,32 @@
+.users-table {
+    text-align: left;
+} 
+
+
+.users-table a,
+.users-table a:hover
+{
+    color: #000;
+    margin-right: 16px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.users-table a:last-child{
+    margin-right: 0;
+}
+
+.users-table img {
+    margin-bottom: 4px;
+}
+
+.users-table td:last-child {
+    text-align: right;
+}
+
+.users-button {
+    margin-top: 96px;
+    width: 28%;
+    font-size: 20px;
+    font-weight: 700;
+}
