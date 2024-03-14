@@ -1,10 +1,3 @@
-# Medical App
-
-To start this project take the following considerations:
-- this app needs node 18.x.x
-- run npm install
-- run npm run dev
-=======
 # Medical Reminder Web Page
 
 Welcome to the Medical Reminder Web project! This web page is designed to help managers of the mobile app to create and edit users and medicines. It's built using React.
