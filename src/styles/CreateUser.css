@@ -1,0 +1,41 @@
+.create-user {
+    margin-top: 56px;   
+}
+
+.create-user-form {
+    margin-top: 24px;
+    width: 800px;
+}
+
+.create-user,
+.create-user-form,
+.create-user-form label {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+  
+.create-user-form label {
+    margin-bottom: 16px;
+    width: 100%;
+}
+
+.create-user-form input {
+    width: 100%;
+    margin-top: 8px;
+}
+
+.create-user-form-date input {
+    width: 44%;
+}
+
+.create-user-buttons {
+    margin-top: 48px;
+    display: flex;
+    width: 32%;
+    justify-content: space-between;
+}
+
+.create-user-secoundary-button.button {
+    background-color: #065353;
+}
